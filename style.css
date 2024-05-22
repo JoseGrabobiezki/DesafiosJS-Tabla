@@ -1,0 +1,27 @@
+body{
+    background-color: #333333;
+    color: white;
+}
+header{
+    text-align: center;
+}
+section{
+    background-color: lightgrey;
+    text-align: center;
+    color: black;
+    padding: 15px;
+    width: 50%;
+    border-radius: 10px;
+    margin: auto;
+}
+input{
+    margin: 7px;
+}
+#boton{
+    padding: 5px;
+    width: 25%;
+    background-color: rgb(33, 76, 216);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
